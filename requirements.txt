@@ -1,4 +1,4 @@
 feedparser==6.0.10
-pymongo==4.1.1
+pymongo==4.6.3
 schedule==1.1.0
 sgmllib3k==1.0.0
